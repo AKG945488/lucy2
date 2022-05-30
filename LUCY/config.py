@@ -4,21 +4,21 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "6435225"  
-    API_HASH = "4e984ea35f854762dcde906dce426c2d"
-    TOKEN = ""
-    OWNER_ID = "1669178360"
-    OWNER_USERNAME = "Timesisnotwaiting"
-    MONGO_DB_URI = ""
-    SUPPORT_CHAT = "Superior_Support"
-    JOIN_LOGGER = "-1001566858208"
-    EVENT_LOGS = "-1001566858208"
+    API_ID = "6137333"  
+    API_HASH = "3422e1d5035e9fe5f31ab7cedb511900"
+    TOKEN = "5323702143:AAHM6HpscgDRXKWV9JtQhNmyKrbW-SEEb84"
+    OWNER_ID = "1739887067"
+    OWNER_USERNAME = "LUCY_MANAGEMENT_BOT"
+    MONGO_DB_URI = "mongodb+srv://akganthesm123456:XTQ3Vbue579p9Ms@cluster0.1roc7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    SUPPORT_CHAT = "LUCY_BOTS"
+    JOIN_LOGGER = "-1001556960219"
+    EVENT_LOGS = "-1001643051258"
 
     # RECOMMENDED
-    INFOPIC = "https://telegra.ph/file/be24bbabbe0ec30dff489.jpg"   
+    INFOPIC = "https://telegra.ph/file/736f13fd86d7bf6ebac95.jpg"   
     CF_API_KEY = ""
     LASTFM_API_KEY = ""
-    BOT_USERNAME = "Zaid2_Robot"
+    BOT_USERNAME = "LUCY_MANAGEMENT_BOT"
     WALL_API = ""
     OPENWEATHERMAP_ID = ""
     TEMP_DOWNLOAD_DIRECTORY = ""
@@ -26,22 +26,22 @@ class Config(object):
     TIME_API_KEY = ""
     CASH_API_KEY = ""
     REM_BG_API_KEY = ""
-    SESSION_STRING = ""
+    SESSION_STRING = "1AZWarzgBu52gc8HNyz_ibvJUdwgKk-7CsP1tcmGaBl2hdIoMXD6AGGUNnq64W0fdVtVGz02Hb-GtJQQmWR_50c-SEFOc7YbR_zZWUKWnABmx04q2iJqkZE_Yy6Qzjkwgj28nK-zZzy19Z7uG4e-CVekIrBab6Aj0kQXnDsI43x3Z8Dp2ZuQ-XEzJNoAyFx0LGeRwtsoSBmNieiTa35e4kyVVhFJhf68RgQz_LD3O6IY3dlrYKnl5_7AlhiEHTNEMeLZtB7minHDPou4GzsQeiMj0oeQdUpX_9HK1w7v3TTgeU6-C_1kczgTWVL3lT2Tz11wQpiYw9XBgVDUWo8-gDvkDVEnjdsQ="
     ARQ_API_KEY = "UIUXOY-NTKWDC-QHFFMD-DHHKVV-ARQ"
     ARQ_API = "UIUXOY-NTKWDC-QHFFMD-DHHKVV-ARQ"
     ARQ_API_URL = "aww"
     HEROKU_APP_NAME = ""
     HEROKU_API_KEY = ""
-    BOT_ID = "1901951380"
-    STRING_SESSION = ""
-    SQLALCHEMY_DATABASE_URI = "postgres://txfpgmmc:U4lmTyueK0grG-VzLBRnOb7lRHxQNsyx@topsy.db.elephantsql.com/txfpgmmc"
-    DATABASE_URL = "postgres://txfpgmmc:U4lmTyueK0grG-VzLBRnOb7lRHxQNsyx@topsy.db.elephantsql.com/txfpgmmc"
+    BOT_ID = "5323702143"
+    STRING_SESSION = "1AZWarzgBu52gc8HNyz_ibvJUdwgKk-7CsP1tcmGaBl2hdIoMXD6AGGUNnq64W0fdVtVGz02Hb-GtJQQmWR_50c-SEFOc7YbR_zZWUKWnABmx04q2iJqkZE_Yy6Qzjkwgj28nK-zZzy19Z7uG4e-CVekIrBab6Aj0kQXnDsI43x3Z8Dp2ZuQ-XEzJNoAyFx0LGeRwtsoSBmNieiTa35e4kyVVhFJhf68RgQz_LD3O6IY3dlrYKnl5_7AlhiEHTNEMeLZtB7minHDPou4GzsQeiMj0oeQdUpX_9HK1w7v3TTgeU6-C_1kczgTWVL3lT2Tz11wQpiYw9XBgVDUWo8-gDvkDVEnjdsQ="
+    SQLALCHEMY_DATABASE_URI = "postgres://dlvsomei:0p0AcLQEWwWq89iMnPuR0lypr1AIF9UH@castor.db.elephantsql.com/dlvsomei"
+    DATABASE_URL = "postgres://dlvsomei:0p0AcLQEWwWq89iMnPuR0lypr1AIF9UH@castor.db.elephantsql.com/dlvsomei"
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "2qrr~TrRIdNnZHEPvdTFjO7pG8LjtH1_I~zLwCLjGakrWlzaAMQ4fO~K0s75E9sJ"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
 
     # OPTIONAL
